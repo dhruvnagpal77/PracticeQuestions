@@ -1,6 +1,6 @@
 package Maximum_Depth_of_Binary_Tree_leetcode;
 
-//Definition for a Binary search tree.
+//Definition for a Binary search tree(BST).
 class BinarySearchTree {
     private TreeNode root;
 
